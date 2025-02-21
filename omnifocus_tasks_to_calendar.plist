@@ -9,12 +9,12 @@
 	<key>ProgramArguments</key>
 	<array>
 	<string>osascript</string>
-	<string>/Users/willjasen/.scripts/omnifocus-tasks-to-calendar/omnifocus_tasks_to_calendar.scpt</string>
+	<string>/Users/davem/Documents/Support/Omnifocus/omnifocus-tasks-to-calendar/omnifocus_tasks_to_calendar.scpt</string>
 	</array>
 	<key>StandardErrorPath</key>
-	<string>/Users/willjasen/Library/Caches/TemporaryItems/local.wiljasen.omnifocus_tasks_to_calendar.err</string>
+	<string>/Users/davem/Library/Caches/TemporaryItems/local.wiljasen.omnifocus_tasks_to_calendar.err</string>
 	<key>StandardOutPath</key>
-	<string>/Users/willjasen/Library/Caches/TemporaryItems/local.wiljasen.omnifocus_tasks_to_calendar.out</string>
+	<string>/Users/davem/Library/Caches/TemporaryItems/local.wiljasen.omnifocus_tasks_to_calendar.out</string>
 	<key>StartCalendarInterval</key>
 	<array>
 		<dict>
